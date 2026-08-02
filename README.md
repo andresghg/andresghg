@@ -51,7 +51,7 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub stats" height="165"/>
+  <!--<img src="./profile/stats.svg" alt="GitHub stats" height="165"/> -->
   <img src="./profile/top-langs.svg" alt="Top languages" height="165"/>
 </p>
 
