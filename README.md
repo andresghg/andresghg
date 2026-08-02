@@ -51,8 +51,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  [<img src="https://github-readme-stats.vercel.app/api?username=andresghg&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresghg&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>](https://github-stats-extended.vercel.app/api?username=andresghg&show_icons=true&theme=tokyonight)
+  <img src="./profile/stats.svg" alt="GitHub stats" height="165"/>
+  <img src="./profile/top-langs.svg" alt="Top languages" height="165"/>
 </p>
 
 ---
