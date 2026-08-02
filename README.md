@@ -43,7 +43,7 @@
 | Proyecto | Descripción | Links |
 |---|---|---|
 | **CashTracker** | Aplicación full-stack de finanzas personales (Next.js + backend en TypeScript/Node), con testing automatizado (Jest + cobertura de código). | [Demo](https://cashtracker-frontend.vercel.app) · [Frontend](https://github.com/andresghg/cashtracker_frontend) · [Backend](https://github.com/andresghg/cashtracker_backend) |
-| **APV — Administración de Pacientes** | CRUD completo en stack MERN para gestión de pacientes (React/Vite + Express/MongoDB). | [Frontend](https://github.com/andresghg/apv_frontend) · [Backend](https://github.com/andresghg/apv_backend) |
+| **POS — Punto de Venta** | Sistema de punto de venta con gestión de productos, categorías, cupones y transacciones. Frontend en Next.js, backend en NestJS con TypeORM/PostgreSQL. | [Demo](https://deploy-pos-nextjs-psi.vercel.app) · [Frontend](https://github.com/andresghg/deploy_pos_nextjs) · [Backend](https://github.com/andresghg/deploy_pos_nestjs) |
 | **Devtree** | Plataforma tipo Linktree para centralizar enlaces de redes sociales, con frontend en React/TypeScript y backend en Express/TypeScript. | [Frontend](https://github.com/andresghg/deploy_devtree_frontend) · [Backend](https://github.com/andresghg/deploy_devtree_backend) |
 
 ---
