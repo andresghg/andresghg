@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/andres-hernandez-b54a56193/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://andresghg.github.io/portfolioAH/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:andresghg94@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -31,7 +31,7 @@
 
 ### 🔭 Actualmente
 
-- 🔭 Construyendo **[Nombre del proyecto activo]**
+- 🔭 Construyendo **NexusOne ERP Dashboard**
 - 🌱 Profundizando en arquitectura backend con **NestJS** y testing automatizado
 - 💬 Abierto a oportunidades como **Full Stack Developer**
 - ⚡ Interesado en arquitectura escalable, buenas prácticas de testing y DX (Developer Experience)
@@ -42,9 +42,9 @@
 
 | Proyecto | Descripción | Links |
 |---|---|---|
-| **NexusOne ERP Dashboard** | Dashboard ERP construido en Next.js, con layout de sidebar en tema oscuro, navegación modular y componentes reutilizables. | [Demo](#) · [Repo](#) |
-| **Sabor y Luz** | Sitio web (Next.js 14 · App Router) para una boutique de importación de alimentos, con componentes TypeScript reutilizables y datos desacoplados de la UI. | [Demo](#) · [Repo](#) |
-| **[Nombre proyecto 3]** | Descripción de una línea del problema real que resuelve. | [Demo](#) · [Repo](#) |
+| **CashTracker** | Aplicación full-stack de finanzas personales (Next.js + backend en TypeScript/Node), con testing automatizado (Jest + cobertura de código). | [Demo](https://cashtracker-frontend.vercel.app) · [Frontend](https://github.com/andresghg/cashtracker_frontend) · [Backend](https://github.com/andresghg/cashtracker_backend) |
+| **APV — Administración de Pacientes** | CRUD completo en stack MERN para gestión de pacientes (React/Vite + Express/MongoDB). | [Frontend](https://github.com/andresghg/apv_frontend) · [Backend](https://github.com/andresghg/apv_backend) |
+| **Devtree** | Plataforma tipo Linktree para centralizar enlaces de redes sociales, con frontend en React/TypeScript y backend en Express/TypeScript. | [Frontend](https://github.com/andresghg/deploy_devtree_frontend) · [Backend](https://github.com/andresghg/deploy_devtree_backend) |
 
 ---
 
@@ -60,5 +60,5 @@
 ### 📫 Contacto
 
 <p align="left">
-  <a href="#">LinkedIn</a> · <a href="#">Portfolio</a> · <a href="mailto:tu-email@ejemplo.com">Email</a>
+  <a href="https://www.linkedin.com/in/andres-hernandez-b54a56193/">LinkedIn</a> · <a href="https://andresghg.github.io/portfolioAH/">Portfolio</a> · <a href="mailto:andresghg94@gmail.com">Email</a>
 </p>
