@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
+[github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=andresghg&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/andresghg?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=andresghg&layout=compact&langs_count=6&theme=blue-green)](https://github.com/andresghg)
+
 ---
 
 ### 🔭 Actualmente
